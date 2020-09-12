@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LEADERBOARD</string>
+    <string name="tab_text_1">Learning Leaders</string>
+    <string name="tab_text_2">Skill IQ Leaders</string>
+    <string name="title_activity_project_submission">Project Submission</string>
+    <string name="message_title">message</string>
+    <string name="message_text">Are you sure ?</string>
+    <string name="yes">Yes</string>
+    <string name="message_success">Submission Successful</string>
+    <string name="message_error">Submission Not Successful</string>
+</resources>
