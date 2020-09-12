@@ -89,8 +89,8 @@ public class ProjectSubmission extends AppCompatActivity {
                                 projectLink.getText().toString(), Toast.LENGTH_LONG).show();*/
 
                 //submitProjectOnline();
-                showSuccessDialog();
-                //showErrorDialog();
+                //showSuccessDialog();
+                showErrorDialog();
             }
         });
 
